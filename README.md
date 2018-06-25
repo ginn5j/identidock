@@ -9,3 +9,4 @@ changelog
 =========
 2018-06-25: Added CI and testing.
 2018-06-25: TEST
+2018-06-25: TEST 2
